@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	// Sample for non-blocking channels.
-	nonBlockingChannel()
+	runProcessesConcurrently()
 
 	// Sample to use collections.
 
